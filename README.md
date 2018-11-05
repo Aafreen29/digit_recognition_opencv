@@ -1,5 +1,5 @@
 # digit_recognition_opencv
-Digit Recognition using OpenCV and Keras in Python with detailed description for beginner
+Digit Recognition using OpenCV and Keras in Python with detailed description for beginner with accuracy of 99.91%
 
 <h3> Step 1 - Installing the required Libraries </h3>
 <p>I have used Anaconda Spyder IDE for this project. Install the following libraries into your machine using Anaconda Command Prompt.</p>
