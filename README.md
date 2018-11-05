@@ -6,3 +6,6 @@ Digit Recognition using OpenCV and Keras in Python with detailed description for
 <p>pip install opencv-python <br>
 pip install tensorflow <br>
 pip install keras</p>
+
+<h3> Step 2 - Run model_build.py file </h3>
+<p>This file creates model using <b>CNN (Convolutional Neural Network)</b>. Accuary is <b>99.86%</b>. </p>
