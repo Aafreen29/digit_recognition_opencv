@@ -13,3 +13,6 @@ pip install keras</b></p>
 
 <h3> Step 3 - Run webcam_digit.py file </h3>
 <p>This file loads model from JSON. It is then compiled. Images are captured frame by frame from an active webcam. Captured image frames are passed through image processing. First, it is converted to GrayScale. Second, it is processed using GaussianBlur of OpenCV to remove unwanted noise from the images. Third, Images are converted to threshold images. Fourth- Images are converted into numpy array of images and then they are resized and reshaped into 28*28 shapes. And finally, labels (digit) of array of images from the model are predicted. </p>
+<div align="center">
+    <img src="https://imgur.com/F1jPhHd.png" width="800px"</img> 
+</div>
